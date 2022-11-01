@@ -162,7 +162,7 @@ header .navbar{
     background:url("./images/header-bg.png");
     background-repeat: no-repeat;
     background-position: center;
-    background-size: contain;
+    background-size: cover;
     padding:2rem 5rem;
 }
 .header .navbar-brand{
@@ -291,7 +291,7 @@ margin-right: 1rem;
     border-color: var(--secondary-color);
 }
 .landing_about_section{
-    background: url("/images/about-banner.jpg");
+    background: url("./images/about-banner.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -326,7 +326,7 @@ margin-right: 1rem;
     transition: all 0.3s;
 }
 .footer_wrapper{
-    background: url(/images/footer_bg.png);
+    background: url(./images/footer_bg.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position:top center;
